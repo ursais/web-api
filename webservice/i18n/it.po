@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-29 12:06+0000\n"
+"PO-Revision-Date: 2024-11-11 13:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -230,7 +230,7 @@ msgstr "URL inoltro"
 #. module: webservice
 #: model:ir.model.fields,field_description:webservice.field_webservice_backend__server_env_defaults
 msgid "Server Env Defaults"
-msgstr "Server predefinito dell'ambiente"
+msgstr "Server ambiente predefinito"
 
 #. module: webservice
 #: model:ir.model.fields,field_description:webservice.field_webservice_backend__tech_name
